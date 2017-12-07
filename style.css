@@ -1,0 +1,33 @@
+body{ background-color: lightblue;
+}
+div.imageh{
+
+  padding-left: 450px;
+  margin-bottom: 100px;
+}
+
+p.large{
+  color:#6695C1;
+  font-family: "acta-display", serif;
+    font-weight: 400;
+    margin-bottom: 36px;
+    font-size: 28px;
+    line-height: 42px;
+        padding-left: 250px;
+}
+p.nomarg{
+color:#3E5F7E;
+    padding-left: 250px;
+      margin-bottom: 65px;
+}
+div.image{
+  font-family: "acta-display", serif;
+    font-weight: 400;
+    margin-bottom: 36px;
+    font-size: 28px;
+    line-height: 42px;
+        padding-left: 250px;
+  }
+
+
+}
